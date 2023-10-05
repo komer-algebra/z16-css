@@ -1,2 +1,2 @@
-# z16 - CSS (inlibe, modules)
+# z16 - CSS (inline & modules)
 - provježbati CSS
